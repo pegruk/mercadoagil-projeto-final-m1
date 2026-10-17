@@ -4,7 +4,7 @@ Microsserviço de pedidos de marketplace, desenvolvido em squad como projeto fin
 
 ## Planejamento
 
-O quadro público de tarefas está no [GitHub Projects](https://github.com/users/pegruk/projects). O planejamento detalhado também está em [KANBAN.md](./KANBAN.md).
+O quadro público de tarefas está no [GitHub Projects](https://github.com/users/pegruk/projects/1). O planejamento detalhado também está em [KANBAN.md](./KANBAN.md).
 
 ## Squad
 
